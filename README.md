@@ -257,6 +257,6 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 ##**Created By Ishit Verma**
-##**linkedIn**-
+##**linkedIn**-https://www.linkedin.com/in/ishit-verma-2309b8281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
